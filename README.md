@@ -1,2 +1,2 @@
 # julia-exercises
-Some basic  programming exercises in Julia languagem.
+Some basic  programming exercises in Julia language.
